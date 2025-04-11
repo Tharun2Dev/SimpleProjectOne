@@ -5,7 +5,8 @@ It is fully responsive and looks good on both **mobile** and **laptop** screens.
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://tharun2dev.github.io/Simple-Webpage/)
+👉 [View Live-Project1 ] -- https://tharun2dev.github.io/SimpleProjectOne/project1/
+👉 [View Live-Project2 ] -- https://tharun2dev.github.io/SimpleProjectOne/project2/
 
 ## 📱 Features
 
